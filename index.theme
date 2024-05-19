@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=X-Shell
+Comment=X-Shell is another Gnome 46 shell theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=X-Shell
+MetacityTheme=X-Shell
+IconTheme=X-Shell
+CursorTheme=X-Shell
+ButtonLayout=close,minimize,maximize:menu
+
